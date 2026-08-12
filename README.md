@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fathima712/india-state-development-insights/blob/main/DEVELOPMENT_INSIGHT_DASHBOARD.ipynb)
 # India State/UT Development Insights Dashboard
 
 # Project Overview
