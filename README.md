@@ -105,3 +105,10 @@ State/UT Ranking
 Development Gap Analysis
         ↓
 Interactive Dashboard
+
+ Data Source
+
+National Family Health Survey (NFHS-5), 2019–21  
+International Institute for Population Sciences (IIPS) and Ministry of Health & Family Welfare, Government of India.
+
+Source: https://iipsindia.ac.in/content/india-and-stateuts-fact-sheets
